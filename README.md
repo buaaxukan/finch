@@ -111,6 +111,10 @@
     * Recurrent VAE &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/vae/train.ipynb)
 
     * "Toward Controlled Generation of Text" (ICML 2017) &nbsp; &nbsp; [Folder](https://github.com/zhedongzheng/finch/tree/master/src_nlp/tensorflow/toward_control)
+
+* Data Argumentation（数据增强）
+
+    * Back Translation &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/other/bi_translation.ipynb)
         
 #### Question Answering（问题回答）
 <img src="https://github.com/zhedongzheng/finch/blob/master/src_nlp/assets/dmn-details.png" height='100'>
